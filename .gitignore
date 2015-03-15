@@ -1,0 +1,4 @@
+out/
+*.db
+.idea/workspace.xml
+.DS_STORE

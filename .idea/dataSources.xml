@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="612694032">
+    <data-source source="LOCAL" name="data7" uuid="99fedfb2-39b9-47f1-9df6-f2f56694f620">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/data6.db</jdbc-url>
+      <libraries>
+        <library>
+          <url>jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.8.7.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="data8" uuid="4a2b2ae7-0a35-421a-b798-98cfd1cf46c2">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/data8.db</jdbc-url>
+      <libraries>
+        <library>
+          <url>jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.8.7.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="data9" uuid="08f17419-a3b7-4d5f-921e-e9a28eee3ed7">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/data9.db</jdbc-url>
+      <libraries>
+        <library>
+          <url>jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.8.7.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
